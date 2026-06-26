@@ -1,0 +1,1303 @@
+{
+  "papers": [
+    {
+      "id": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "title": "Geotechnical Engineering Considerations for Extraterrestrial Infrastructure Construction",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2010%20James%20K.%20Mitchell1.pdf",
+      "path": "Papers/2010 James K. Mitchell1.pdf",
+      "mimeType": "application/pdf",
+      "doi": "",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper provides critical geotechnical data (density, shear strength, and compressibility) for lunar and Martian regolith, which are fundamental to designing foundations for space habitats and evaluating the feasibility of ISRU-based construction and excavation.",
+      "markdownContent": "# Geotechnical Engineering Considerations for Extraterrestrial Infrastructure Construction\\n\\n## Authors\\nJames K. Mitchell and W. David Carrier III\\n\\n## Abstract\\nSpace exploration is entering a new phase involving manned and unmanned landings on the Moon, Mars, and asteroids. Success requires detailed knowledge of extraterrestrial soils and rocks for foundation design, excavation, underground space utilization, and evaluation of local materials for In-Situ Resource Utilization (ISRU). This paper summarizes current knowledge on compositions, geotechnical properties, and in-situ states of these soils.\\n\\n## Physical Comparison of Earth, Moon, and Mars (Table 1 Summary)\\n- **Gravity**: Moon (1/6 Earth), Mars (1/2.64 Earth).\\n- **Surface Temperature extremes**: Moon (-233°C to 123°C), Mars (-89°C to -31°C at Viking 1 site).\\n- **Atmosphere**: Moon (0 mb), Mars (4.0 to 8.7 mb).\\n- **Soil Composition**: Moon rocks include basaltic volcanic rocks, pristine highlands rocks, and polymict breccias. Martian soil contains silicon, iron, aluminum, and magnesium, with oxidation causing the red color.\\n\\n## Lunar Geotechnical Properties\\n- **Relative Density**: Extremely variable at the surface (0-30%) but increases rapidly to >90% (very dense) below 30 cm.\\n- **Shear Strength**: Friction angles are high, ranging from 41-43° at the surface to 52-55° at depths of 30-60 cm.\\n- **Compressibility**: Compression index ($C_c$) ranges from 0.3 (loose) to 0.05 (dense).\\n- **Stability**: Lunar regolith can support stable vertical excavation walls up to at least 2 m deep.\\n\\n## Martian Geotechnical Properties\\n- **Complexity**: Martian geology is significantly more complex than the Moon's due to past water activity, wind erosion, and tectonic processes.\\n- **Soil Nature**: Described by the Pathfinder team as similar to clayey silt with embedded sands, granules, and pebbles.\\n- **Bearing Capacity**: While likely site-specific, high foundation loads appear feasible, though 'soft zones' (sinking hazards) have been encountered by rovers.\\n\\n## In-Situ Resource Utilization (ISRU)\\n- **Economic Driver**: Transporting materials from Earth costs ~$100,000 per kg.\\n- **Goals**: Short-term goals include oxygen production; long-term goals include metal extraction and the use of lunar/Martian regolith as structural construction materials.",
+      "keyFindings": "Extraterrestrial regolith, especially on the Moon, exhibits high bearing capacity due to its rapid increase in density at shallow depths, making it suitable for supporting infrastructure foundations. ISRU is identified as an essential strategy to bypass the $100,000/kg cost of transporting Earth-based materials, requiring precise geotechnical knowledge for excavation and processing.",
+      "findings": "",
+      "result": "",
+      "graphId": "",
+      "status": "success"
+    },
+    {
+      "id": "f02d1fc3c85a84b300c0e0da56963338f7539127",
+      "title": "2016 Robert L. Kerr.pdf",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2016%20Robert%20L.%20Kerr.pdf",
+      "path": "Papers/2016 Robert L. Kerr.pdf",
+      "mimeType": "application/pdf",
+      "isRelevant": false,
+      "relevanceReason": "The document is a social science study focused on American political branding and media discourse using the C-SPAN archives. The mention of an 'extraterrestrial' in the title is a rhetorical thought experiment used to represent an unbiased observer; it does not contain information regarding space habitat construction, ISRU, materials science, or extreme environment technology.",
+      "status": "success"
+    },
+    {
+      "id": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "title": "A microbial role in the construction of Mono Lake carbonate chimneys?",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2018%20Alexander%20Brasier.pdf",
+      "path": "Papers/2018 Alexander Brasier.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.1111/gbi.12292",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper investigates the microbial role in biomineralization and the construction of large-scale carbonate structures (tufa chimneys), which is highly relevant to biotechnology and bio-inspired materials for ISRU-based space construction (Class III habitats).",
+      "markdownContent": "# A microbial role in the construction of Mono Lake carbonate chimneys?\\n\\n## Abstract\\nLacustrine carbonate chimneys are striking, metre-scale constructions. This study uses correlative microscopy to show that microbes were living around Pleistocene Mono Lake carbonate chimneys during their growth. A plausible interpretation is that benthic cyanobacteria and their associated extracellular organic material (EOM) formed tubular biofilms around rising sublacustrine spring vent waters, binding calcium ions and trapping/binding detrital silicate sediment. Decay of these biofilms would locally have increased calcium and carbonate ion activity, inducing calcite precipitation. These findings suggest that the fabric of these chimneys was microbially mediated, representing a macro-scale target in the exploration for ancient or extraterrestrial life.\\n\\n## 1. Introduction\\nDistinguishing biologically influenced sedimentary rock structures from abiotic ones is a key challenge in astrobiology. Mono Lake, California, is a global site for studying biogeochemical processes creating 'tufa' limestone chimney constructions around sublacustrine vents.\\n\\n## 2. Methods\\n### 2.1 Fieldwork\\nFieldwork was conducted in October 2014, targeting Pleistocene chimney structures close to Mono City. Samples were taken from naturally broken pipes.\\n### 2.2 Analytical Techniques\\n- **XRD Analysis:** Determined bulk mineralogy.\\n- **Biomarker Analysis:** Conducted using GC-MS to identify organic signatures.\\n- **Microscopy:** Used Focussed Ion Beam (FIB), TEM, SEM-EDS, and NanoSIMS ion mapping to analyze microfossil morphology and chemistry.\\n\\n## 3. Results\\n- **Structure:** Chimneys vary from 3 to 4 m in height and 1.5 to 3 m in width. Internally, they consist of calcitic pipes (30–60 cm high, 3 cm wide) with a central conduit.\\n- **Mineralogy:** Bulk rock is ~99% calcite with an average magnesium content of 8.1%. About 1% is quartz and other silicates.\\n- **Microfossils:** Ubiquitous filamentous microfossils were found within the calcite growth. Two types were identified: Type 1 (0.8–8 µm diameter, dark sheaths) and Type 2 (10–14.5 µm diameter, segmented trichomes).\\n- **Chemistry:** NanoSIMS mapping revealed nitrogen-rich organic material (EOM) associated with the filaments. Silicate nanograins were found trapped within this EOM.\\n\\n## 4. Discussion\\nThe evidence suggests that biofilms provided initial sites for calcite nucleation and encouraged organized crystal growth. The morphology of the pipes is interpreted as resulting from tubular microbial mats ('rolled up' mats) growing around spring vents. This bio-influence controlled the macro-scale fabric, even if subsequent crystal growth was abiotic.\\n\\n## 5. Conclusions\\nThe Mono City chimney pipes are packed with fossil microbial filaments. These results suggest that the 'sticky' EOM produced by cyanobacteria trapped sediment and facilitated mineral precipitation, influencing the chimney fabric at nano- to micro-scales.",
+      "keyFindings": "The study demonstrates that large-scale carbonate chimneys in Mono Lake are bio-influenced constructions where cyanobacterial biofilms and extracellular organic material (EOM) served as templates and nucleation sites for mineralization. This microbial mediation suggests that biological processes can significantly control the macro-scale morphology and fabric of mineral structures, providing a model for bio-inspired construction and astrobiological targets.",
+      "findings": "Discovery of ubiquitous filamentous cyanobacterial microfossils (Type 1 and Type 2) and preserved extracellular organic material (EOM) within Pleistocene tufa chimneys. The EOM is shown to have trapped detrital silicates and promoted calcite nucleation, effectively acting as a biological framework for the construction of meter-scale mineral pipes.",
+      "result": "Bulk mineralogy consists of 99% high-Mg calcite (8.1% Mg) and 1% quartz; chimney pipes (3cm diameter) are composed of stacked calcified microbial mats with distinct organic nitrogen signatures detected via NanoSIMS.",
+      "graphId": "2018_Brasier_Wiley_A",
+      "status": "success"
+    },
+    {
+      "id": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "title": "Soil Mechanics in Vacuum Chamber",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2018%20G.%20H.%20Go.pdf",
+      "path": "Papers/2018 G. H. Go.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.1061/9780784481899.076",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper investigates soil mechanics and behavior in vacuum chambers, which is critical for verifying ISRU and excavation equipment intended for lunar and Martian construction. It addresses the technical challenge of soil disturbance during the simulation of extraterrestrial environments.",
+      "markdownContent": "# Soil Mechanics in Vacuum Chamber\n\n**Authors:** G. H. Go; J. Lee; H. S. Shin; B. H. Rhu; and H. W. Jin  \n**Publication:** Earth and Space 2018, ASCE\n\n## Abstract\nThe dust vacuum chamber is an essential infrastructure for the verification of space exploration equipment, especially extraterrestrial missions for in situ resource utilization (ISRU). This study presents a new approach in soil mechanics that is particularly applicable to the dust vacuum chamber. One of the main issues in operating the dust vacuum chamber is soil disturbance problems during the evacuation. Thus, the appropriate vacuum rate was suggested to minimize the soil disturbance in the dust vacuum chamber using theoretical and numerical approaches. Firstly, simple analytical solutions were used to provide approximate maximum discharge velocity and evacuation time to finish air flow through a soil specimen at a given vacuum pressure. Then, a two dimensional finite element model was developed which simulates the hydro-mechanical behavior of the soil specimen in a vacuum chamber with respect to different vacuum rates. From the numerical analysis results, optimum guidelines have been proposed to ensure that soil disturbance is minimized.\n\n## Introduction\nSpace exploration is shifting toward surface missions using rovers and landers. Verification of equipment (e.g., for lunar surface missions) requires performance tests in a Dirty Vacuum Chamber (DVC) that simulates lunar surface conditions. A major problem in DVC operation is soil disturbance during depressurization, which alters the initial condition of the soil bin.\n\n## Poroelasticity Theory\nThe study applies Biot’s (1941) poroelasticity theory to evaluate hydro-mechanical behavior. The constitutive equation relates stress, strain, and pore air pressure:\n\n$$\\sigma = C\\epsilon - \\alpha_B u_a I$$\n\nSoil disturbance begins when effective stress becomes zero due to seepage stress. This occurs when the seepage force exceeds the soil's dead load. The maximum air velocity limit $q_{max}$ is defined as:\n\n$$q_{max} = \\frac{K}{\\mu} \\cdot \\rho_d \\cdot g$$\n\n### Table 1. Material properties used in finite element model.\n| Property | Name | Value | Unit | Note |\n| :--- | :--- | :--- | :--- | :--- |\n| Young’s Modulus | E | 10 | MPa | constant |\n| Biot-Willis coefficient | αB | 1 | - | constant |\n| Particle density | ρd | 2750 | kg/m³ | constant |\n| Air density | ρa | (ωb u_a) / RT | kg/m³ | variable |\n| Porosity | n | 0.418 | - | constant |\n| Dynamic viscosity of air | μ | 1.814E-05 | Pa·s | constant |\n| Storage | S | n / u_a | 1/Pa | variable |\n| Poisson’s ratio | ν | 0.25 | - | constant |\n| Intrinsic permeability | K | 2.55E-13 | m² | constant |\n\n## Finite Element Model\nA 2D FE model was set up coupling fluid flow and geomechanics. The soil specimen depth was 0.047m. Initial pressure was set to atmospheric, with depressurization occurring from the top boundary.\n\n## Results and Discussion\nAs absolute pressure approaches vacuum, air velocity increases rapidly due to exponential pressure gradients, inducing high drag forces. For the given soil properties, $q_{max}$ was calculated as 0.000235 m/s. At a vacuum rate of -0.33 kPa/sec, disturbance occurred 282.5 seconds after start. Reducing the vacuum rate (e.g., to -0.11 kPa/sec) before reaching $q_{max}$ effectively drops the air velocity and maintains soil stability.\n\n## Summary and Conclusion\n1. Poroelasticity theory provides insight into hydro-mechanical soil behavior in DVCs.\n2. FE models help determine appropriate vacuum rates to prevent soil \"boiling\" or disturbance.\n3. Vacuum rates must be controlled to maintain soil specimen integrity until a maximum allowable pressure (e.g., 2.5 Torr) is reached.",
+      "keyFindings": "The study establishes that soil disturbance in vacuum simulation chambers is caused by seepage forces exceeding the soil's dead load during depressurization. By applying poroelasticity theory and finite element modeling, the researchers identified that controlling the vacuum rate (reducing it before air velocity reaches a critical threshold) is essential to maintain the integrity of lunar/Martian soil simulants for ISRU equipment testing.",
+      "findings": "The researchers developed a methodology to predict and prevent soil disturbance in Dirty Vacuum Chambers (DVC). They found that soil behavior under vacuum is governed by the coupling of air pressure depletion and soil stress (poroelasticity), where rapid evacuation leads to high air discharge velocities that can liquefy or disturb the soil bed.",
+      "result": "The critical air velocity limit for the tested soil simulant was determined to be 0.000235 m/s; simulations showed that a depressurization rate of -0.33 kPa/s would cause disturbance at -94 kPa, whereas reducing the rate to -0.11 kPa/s avoids this threshold and preserves the soil condition.",
+      "graphId": "2018_Go_ASCE_A",
+      "status": "success"
+    },
+    {
+      "id": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "title": "Fabrication of Flexible Thermoelectric Energy Harvesting System",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2018%20Guangxi%20Wu.pdf",
+      "path": "Papers/2018 Guangxi Wu.pdf",
+      "mimeType": "application/pdf",
+      "doi": "null",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper discusses the fabrication of flexible thermoelectric energy harvesting systems for extraterrestrial surfaces (Mars, Moon). It utilizes thick-film printing technology (an automated deposition method) and explores materials science to create sustainable power sources for extreme environments.",
+      "markdownContent": "# Fabrication of Flexible Thermoelectric Energy Harvesting System\n\n**Authors:** Guangxi Wu; Ferin Neff; and Xiong (Bill) Yu  \n**Publication:** Earth and Space 2018, ASCE  \n\n## ABSTRACT\nThermoelectric energy harvesting is promising to provide sustainable energy source in the extraterrestrial environment. This paper describes procedures incurred in the fabrication of thermoelectric energy harvester on flexible substrates. An electrically parallel structure is proposed, which features higher energy efficiency than the counterpart electrically series structure based on theoretical analyses. As proof of concept, flexible thermoelectric harvesters in electrically parallel and series structures are prepared with thick film printing procedures. The performance of elements and device with different architectures are characterized. Both analytical and experimental comparison imply a promising improvement of energy conversion efficiency by using the electrically parallel structure.\n\n## INTRODUCTION\nThermoelectric modules (TEMs) when used as generators (TEGs) are capable of providing continuous energy for extraterrestrial explorations, where sun light is not always available or intense enough for solar cells to work. For example, the solar brightness on Mars and Jupiter is as weak as 45% and 4%, respectively. Radioisotope thermoelectric generators (RTGs) have received interest due to reliability. However, the naturally existing temperature gradient on spacecraft or planetary surfaces (Mars: 20°C to -73°C; Moon: 123°C to -153°C) has not been effectively leveraged. Covering vehicle or habitat surfaces with flexible TEGs could significantly boost energy provision.\n\n## ELECTRICALLY SERIES VS PARALLEL STRUCTURES\n### Electrically Series TEM Efficiency\nConventionally, TEMs are connected in series. The maximum efficiency is defined as:\n\n$$\\eta_{max} = \\frac{T_H - T_C}{T_H} \\cdot \\frac{\\sqrt{1 + Z\\bar{T}_{module}} - 1}{\\sqrt{1 + Z\\bar{T}_{module}} + \\frac{T_C}{T_H}}$$\n\nWhere $ZT_{module}$ is the figure-of-merit. Property mismatches between p-type and n-type materials often impair this efficiency.\n\n### Electrically Parallel TEM Efficiency\nThis paper proposes a structure where legs are connected in parallel both thermally and electrically. In this configuration, the module's figure-of-merit can reach the value of the material with the higher performance, preventing the waste of potential caused by material mismatch.\n\n## FABRICATION PROCESS\n**Material Preparation:** $Bi_2Te_3$ (n-type and p-type) was processed into nanocomposites via ball milling to increase $ZT$ by limiting phonon transport through grain boundary scattering.\n\n**Ink Preparation:** Ground TE powder was mixed with an epoxy matrix (EPON Resin 863) at a ratio of 4.5:1.\n\n**Printing:** \n1. Substrate: Flexible Polyimide (Kapton).\n2. Electrodes: Commercial gold ink (Ercon E4464) printed using mesh screens.\n3. TE Legs: Printed using stencils on an MPM TF-100 Thick Film Printer.\n4. Curing: 110°C for 24 hours.\n\n## Table 1. Material properties of a pair of thermoelectric materials (Bi2Te3).\n\n| Material | Electrical Resistivity $\\rho$ (mΩ cm) | Seebeck Coefficient $\\alpha$ (μV/K) | Thermal Conductivity $\\kappa$ W/(cm K) | Material figure-of-merit $ZT_{material}$ at 300K |\n| :--- | :--- | :--- | :--- | :--- |\n| $Bi_2Te_3$ (p) | 0.83 | 156.57 | 2.09 × 10⁻² | 0.42 |\n| $Bi_2Te_3$ (n) | 0.73 | -193.00 | 2.04 × 10⁻² | 0.74 |\n\n## CONCLUSION\nPreliminary results indicate that electrically parallel TEMs are a prospective solution to improve energy conversion efficiency and simplify the fabrication of large-area implementations on flexible substrates for space applications.",
+      "keyFindings": "The research validates that an electrically parallel thermoelectric module structure can improve energy conversion efficiency by up to 32% compared to series structures by mitigating material property mismatches. The study successfully demonstrated a fabrication process using thick-film printing on flexible polyimide substrates, suitable for harvesting energy from temperature gradients on curved space infrastructure.",
+      "findings": "The study identifies that conventional series-connected thermoelectric modules are limited by the lower-performing material in a p-n pair. By employing an electrically parallel structure, the module's performance is driven by the superior material, and the fabrication of large-area flexible generators is simplified through thick-film printing techniques.",
+      "result": "Experimental characterization at a 50°C temperature gradient showed that the n-type parallel structure achieved significantly higher maximum output power than the p-type parallel and conventional series structures, confirming the analytical prediction of improved efficiency through the parallel architecture.",
+      "graphId": "2018_Wu_ASCE_A",
+      "status": "success"
+    },
+    {
+      "id": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "title": "Thermal and Mechanical Properties of Cementitious Composites for Additive Construction of Energy-Saving Habitats",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2018%20Hongyu%20Zhou.pdf",
+      "path": "Papers/2018 Hongyu Zhou.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.1061/9780784481899.057",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper investigates lightweight cementitious composites (LWCC) specifically for additive construction (3-D printing) of extraterrestrial habitats, focusing on materials science and automated construction techniques suitable for extreme environments.",
+      "markdownContent": "# Thermal and Mechanical Properties of Cementitious Composites for Additive Construction of Energy-Saving Habitats\n\n**Authors:** Hongyu Zhou, Adam L. Brooks, Dominic Hanna, and Babak Salarieh\n**Affiliation:** Dept. of Civil and Environmental Engineering, Univ. of Alabama in Huntsville, Huntsville, AL 35758, USA\n**Published in:** Earth and Space 2018, ASCE\n\n## ABSTRACT\nLightweight cementitious composites (LWCC) are cement based material combined with lightweight fillers. Because of its advantages in reducing both structural weight and thermal conductivity, it has the potential to be used in the construction of terrestrial and extraterrestrial habits. Furthermore, since it has relatively small and spherical shaped aggregates, LWCC is also suitable for extrusion based 3-D printing. In this research, a comprehensive and thorough study was carried out to investigate the effects of different lightweight fillers on both the mechanical and thermal properties of LWCC. Various lightweight fillers including three types of hollow glass microspheres (HGM) and two fly ash cenospheres (FACs) are studied in conjunction with various particle size, shell wall thickness, and volume fractions. Both mechanical and thermophysical properties were tested. The results indicated that the thermal property of LWCC is mostly governed by the volume fraction of LWFs whereas the mechanical properties are heavily affected by the type and property of LWF particles included.\n\n## INTRODUCTION\nProvoked by recent advancements in additive manufacturing, 3D printable concrete has been explored as an alternative method to construct concrete structures. 3-D printing of cementitious materials has the potential to address several major challenges: (i) it eliminates formwork, (ii) reduces material waste and human error through automation, and (iii) allows for functionally graded material design.\n\n### Table 1. Properties of the lightweight particle fillers.\n\n| LWF Type | Material | Particle Size D10 (μm) | D50 (μm) | D90 (μm) | Wall Thickness - t (μm) | Density (g/cm³) | Crush Strength (MPa) |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| HGM K25 | Hollow glass microsphere | 25 | 55 | 90 | 0.85 | 0.25 | 0.75 |\n| HGM S38HS | HGM | 19 | 44 | 70 | 1.20 | 0.28 | 5.5 |\n| HGM S60 | HGM | 12 | 29 | 48 | 1.49 | 0.60 | 10 |\n| FAC E106 | Fly ash cenosphere | 42.6 | 81.3 | 125.2 | 4.8 | 0.91 | 1.6-3.2 |\n| FAC E200/600 | FAC | 81.3 | 349.1 | 457.2 | 16.5 | 0.82 | 1.6-3.2 |\n\n## RESULTS AND DISCUSSION\n\n### Compressive Strength\nThe compressive strength of LWCC mortars increases with higher HGM concentrations (up to ~15% volume fraction) due to improved rheology and reduced air content. Beyond 15%, strength decreases as stress cracks propagate through the particle shells. Mortars with smaller HGM particles and thicker shells (e.g., S60) yielded higher mechanical strength. At 28% volume fraction, S60 mortar is 125% stronger than K25 mortar.\n\n### Thermal Properties\nThermal conductivity is primarily dictated by the volume fraction of the lightweight fillers rather than their type. At 7% volume fraction, conductivity reduces by ~30%. As volume fraction approaches 28%, conductivity decreases to 0.65-0.8 W/m·K (compared to 2.1-2.2 W/m·K for the control).\n\n### Table 2. Density, mechanical, and thermal properties of LWCC tested.\n\n| Mix ID | LWF Fraction (%) | Oven Dry Density (kg/m³) | Compressive Strength (MPa) | Thermal Conductivity (W m⁻¹K⁻¹) |\n| :--- | :--- | :--- | :--- | :--- |\n| K25-0 | 0 | 1974 | 55.1 | 2.30 |\n| K25-4 | 29.3 | 1344 | 21.5 | 0.62 |\n| S60-2 | 14.60 | 1836 | 61.2 | 1.35 |\n| E106-2 | 13.75 | 1787 | 59.7 | 1.44 |\n| E200/600-4 | 24.51 | 1396 | 35.4 | 0.80 |\n\n## CONCLUSIONS\n1. Thermal properties are primarily dictated by filler volume fraction and are insensitive to the type of filler.\n2. Mechanical properties are greatly affected by filler properties (size, shell thickness, crushing strength).\n3. Smaller LWF particles are well distributed in the matrix and are suitable for extrusion-based additive construction.\n4. Compressive behavior of LWCC is strain-rate sensitive, with dynamic strength being 40-66% higher than quasi-static strength.",
+      "keyFindings": "The study demonstrates that lightweight cementitious composites (LWCC) using hollow glass microspheres and fly ash cenospheres are viable for 3D printing extraterrestrial habitats due to their spherical aggregates and controllable rheology. Thermal conductivity is mainly dependent on filler volume, while mechanical strength depends on the specific filler characteristics like shell thickness and size.",
+      "findings": "Characterization of LWCC with HGM and FAC fillers for 3D printing. The research identified that small, spherical fillers improve rheology for extrusion and that thermal insulation can be significantly increased (reducing conductivity to 0.65 W/m·K) by adjusting filler volume fractions.",
+      "result": "LWCC with S60 HGMs at 28% volume fraction achieved a 125% higher compressive strength (27 MPa) than K25 HGMs. Thermal conductivity was reduced from 2.30 W/m·K (control) to 0.62 W/m·K at ~30% filler fraction. Dynamic compressive strength increased by up to 66.7% at high strain rates (920 s⁻¹).",
+      "graphId": "2018_Zhou_ASCE_A",
+      "status": "success"
+    },
+    {
+      "id": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "title": "Multiscale Modeling and Testing of Protein-Bound Regolith and Soils",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2018%20I.%20Rosa.pdf",
+      "path": "Papers/2018 I. Rosa.pdf",
+      "mimeType": "application/pdf",
+      "doi": "",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper investigates protein-bound regolith, a bio-inspired ISRU material for extraterrestrial construction on the Moon and Mars, and proposes a multiscale modeling framework for its structural evaluation.",
+      "markdownContent": "# Multiscale Modeling and Testing of Protein-Bound Regolith and Soils\n\n**Authors:** I. Rosa, M. D. Lepech, D. J. Loftus\n**Affiliations:** Stanford University, NASA Ames Research Center\n**Venue:** Earth and Space 2018 (ASCE)\n\n## Abstract\nExtraterrestrial construction faces challenges due to limited resources and high transport costs. This research focuses on protein-bound soils, a novel composite produced by mixing regolith, water, and biopolymer binders. The resulting material exhibits compressive strength comparable to Portland cement. A multiscale framework is proposed to model fracture properties across four scales: nanoscale (protein mechanics), microscale (particle-binder interactions), mesoscale (crack propagation), and macroscale (bulk mechanical testing).\n\n## Introduction\nSurface operations on the Moon and Mars require protection from radiation and meteorite impacts. In situ resource utilization (ISRU) using abundant regolith is essential for sustainable infrastructure. Protein-bound regolith offers a low-energy construction method for roads, landing pads, and shelters.\n\n## Multiscale Framework\n\n### 1. Nanoscale\n- **Method:** Nanoindentation.\n- **Focus:** Determining the mechanical properties of desiccated protein binders.\n\n### 2. Microscale\n- **Method:** MicroCT imaging and Statistically Equivalent Periodic Unit Cells (SEPUC).\n- **Focus:** Capturing the geometric arrangement of soil particles, voids, and protein film bridges to obtain homogenized material properties.\n\n### 3. Mesoscale\n- **Method:** Rigid Body Spring Model (RBSM).\n- **Focus:** Simulating crack initiation and propagation within the homogenized material based on plasticity and yield criteria.\n\n### 4. Macroscale\n- **Method:** Triaxial and uniaxial testing with 3D Digital Image Correlation (DIC).\n- **Focus:** Experimental validation of numerical models and characterization of failure yield surfaces.\n\n## Comparison of Material Properties\n\n| Property | Portland Cement Mortar | Protein-Bound Regolith |\n| :--- | :--- | :--- |\n| **Stiffness (GPa)** | ~22 | ~1.2 |\n| **Compressive Strength (MPa)** | ~35 | ~12 |\n| **Porosity (%)** | 7 - 20 | 20 - 40 |\n| **Binder Weight (%)** | Up to 25 | 5 - 15 |\n\n## Conclusions\nThe multiscale approach enables the prediction of mechanical behavior for varying mix designs and environments. Future work aims to optimize material compositions for specific load requirements and scale the models to simulate full extraterrestrial structures.",
+      "keyFindings": "The study establishes a four-tier multiscale modeling framework to predict the performance of protein-bound regolith composites. Findings indicate that these bio-inspired materials can achieve structural properties suitable for planetary infrastructure while utilizing local resources.",
+      "findings": "The research concludes that the mechanical response of protein-bound soils is highly dependent on the micro-level configuration of protein bridges between regolith particles. The higher porosity and more compliant binder compared to traditional concrete result in larger deformations at failure, necessitating specialized computational models for design.",
+      "result": "Experimental and simulation data show that protein-bound regolith has a compressive strength of approximately 12 MPa and a stiffness of 1.2 GPa, with a high porosity range of 20% to 40%.",
+      "graphId": "2018_Rosa_ASCE_A",
+      "status": "success"
+    },
+    {
+      "id": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "title": "Low-velocity impact response of lunar and Martian regolith simulants: Implications for lunar and Martian surface explorations",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2024_Ishii.pdf",
+      "path": "Papers/2024_Ishii.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.1063/5.0233884",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper investigates the geomechanical and granular behavior of lunar and Martian regolith simulants under impact conditions, which is essential for extraterrestrial construction, landing pad stability, and drilling/sampling operations.",
+      "markdownContent": "# Low-velocity impact response of lunar and Martian regolith simulants: Implications for lunar and Martian surface explorations\n\n**Cite as:** Phys. Fluids 36, 113318 (2024); **doi:** 10.1063/5.0233884\n**Submitted:** 18 August 2024; **Accepted:** 3 October 2024; **Published Online:** 5 November 2024\n\n**Authors:** Takuma Ishii, Arata Kioka, Jyh-Jaan Steven Huang, Yoshiki Tabuchi, and Yasuhiro Yamada\n\n## Abstract\nThe granular mechanics of lunar and Martian regolith remain inadequately understood, impeding progress in successful exploration, landing, drilling, sampling, and construction activities on extraterrestrial surfaces. This study investigates the granular behavior of lunar and Martian regolith under impact conditions using high-fidelity simulants (LHS-1, LMS-1, and MGS-1) and terrestrial silica sand. Findings demonstrate that crater depths of regolith layers for lunar highlands and Martian surfaces are greater than those of lunar mare and terrestrial sand, highlighting significant differences in granular behavior that inform future resource utilization and infrastructure development.\n\n## Table I: Physical properties of studied granular materials\n| Target material | Mean particle density $\\rho_g$ (g/cm³) | Mean particle diameter (\\mu m) | Internal friction angle (°) | Mean porosity $\\phi$ (-) | Cohesion (Pa) |\n|---|---|---|---|---|---|\n| LHS-1 | 3.23 | 90 | 31.49 | 0.586 ± 0.006 | 311 |\n| LMS-1 | 3.34 | 91 | 34.84 | 0.511 ± 0.004 | 393 |\n| MGS-1 | 3.40 | 90 | 32.34 | 0.588 ± 0.003 | 307 |\n| T-8 | 2.78 | 120 | 36.2 | 0.579 ± 0.004 | 0 |\n\n## Results and Discussion\n- **Crater Depth Analysis:** Impact crater experiments (112 total) showed that LHS-1 and MGS-1 exhibited nearly identical crater depths, which were significantly deeper than T-8 terrestrial sand. For example, at impact velocities of 40-70 cm/s, LHS-1 crater depths were approximately double those of T-8.\n- **Geotechnical Factors:** The resistance to impact is primarily influenced by cohesion, internal friction, and particle shape. Regolith particles have irregular, angular shapes and higher cohesion compared to rounded terrestrial sand grains, leading to more complex granular dynamics.\n- **Scaling Laws:** Power-law scaling ($d \\propto E_k^\\alpha$) showed exponents ranging from 0.417 to 0.672 for various simulants, suggesting higher susceptibility to impact penetration in highland and Martian regolith.\n\n## Conclusion\nThe study provides critical insights for optimizing landing strategies and foundation designs for lunar and Martian infrastructure. It highlights that the higher porosity and unique angularity of regolith particles result in lower resistance to impact compared to terrestrial materials, necessitating specialized engineering approaches for extraterrestrial surface construction.",
+      "keyFindings": "The study identifies that lunar highland (LHS-1) and Martian (MGS-1) regolith simulants exhibit significantly lower resistance to impact—with crater depths up to twice as deep as terrestrial sand—due to their irregular particle shapes and high porosity. These geomechanical differences are critical for the design of stable landing pads, foundations, and drilling systems for space habitats.",
+      "findings": "Granular mechanics of extraterrestrial regolith differ significantly from terrestrial sand; irregular particle shapes and higher cohesion in regolith simulants lead to unique impact responses; lunar highland and Martian surfaces are more compressible and less resistant to penetration than lunar mare or Earth-based sand.",
+      "result": "Crater depth for lunar highland simulant (LHS-1) was approximately 2 times greater than terrestrial silica sand at impact velocities of 40-70 cm/s; power-law scaling exponents for crater depth relative to kinetic energy were determined as 0.553 (LHS-1), 0.417 (LMS-1), and 0.473 (MGS-1).",
+      "graphId": "2024_Ishii_AIP_A",
+      "status": "success"
+    },
+    {
+      "id": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "title": "In-Space Manufacturing: Technologies, Challenges, and Future Horizons",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2025%20Subin%20Antony%20Jose.pdf",
+      "path": "Papers/2025 Subin Antony Jose.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.3390/jmmp9030084",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper provides a comprehensive review of in-space manufacturing (ISM) technologies, including additive manufacturing, robotic assembly, and ISRU-based construction, which are critical for the development of space habitats and infrastructure on the Moon and Mars.",
+      "markdownContent": "# In-Space Manufacturing: Technologies, Challenges, and Future Horizons\n\n## Abstract\nIn-space manufacturing (ISM) represents a transformative frontier in space exploration and industrial production, offering the potential to revolutionize how goods are produced and resources are utilized beyond Earth. This paper explores multifaceted aspects of ISM, including its evolution, technologies, challenges, and future prospects. It emphasizes additive manufacturing, advanced materials processing, autonomous robotic systems, and biomanufacturing.\n\n## 1. Introduction\nIn-space manufacturing (ISM) refers to the production and fabrication of components in environments beyond planetary surfaces, typically in microgravity or strong vacuum. The primary objective is to enable on-demand fabrication, repair, and recycling of components, optimizing resource utilization and supporting sustainable exploration efforts.\n\n## 2. Technologies and Methods for ISM\n### 2.1. Additive Manufacturing in Microgravity\nAdditive manufacturing (AM), or 3D printing, reduces the need to transport spare parts from Earth.\n\n**Table 1. Additive manufacturing processes and challenges.**\n| Process | General Description | Challenges |\n| :--- | :--- | :--- |\n| Filament-based material extrusion | Extrudes filament through a nozzle under pressure | Limited to direct polymer processing |\n| Powder Bed Fusion | Fuses powder layers using a high-energy source | Safety hazards from high-energy sources and metallic powders |\n| Directed Energy Deposition | Deposits and fuses materials using thermal energy | Limited control over material during deposition |\n| Vat Photopolymerization | Cures liquid photopolymers with light | Requires specialized photopolymer materials |\n| Material Jetting | Deposits charged droplets through a deflection field | Limited material variety and processing challenges |\n| Binder Jetting | Deposits liquid binder onto powdered material | Unproven in microgravity |\n| Sheet Lamination | Bonds layers via adhesive, welding, or heat | Unproven in microgravity |\n\n### 2.2. Advanced Materials\nTitanium alloys, polyimides, and metal-matrix composites are identified as key materials for structural and electronic applications.\n\n**Table 2. Types of materials for ISM and their functionalities.**\n| Material | Functionality | Used in |\n| :--- | :--- | :--- |\n| Titanium Alloy | High strength-to-weight; corrosion resistance | Structural components |\n| Polyimides | Thermal stability; low outgassing | Insulation and coatings |\n| Metal Matrix Composites | Improved thermal/mechanical properties | Thermal management |\n\n### 2.3. Autonomous and Robotic Manufacturing Systems\nRobotic systems like NASA's ARMADAS (Autonomous Reconfigurable Mission Adaptive Digital Assembly Systems) are designed to assemble large structures such as antennas, habitat modules, and spaceports.\n\n### 2.4. Biomanufacturing and Pharmaceutical Production\nISRU-based biomanufacturing can support life by recycling waste and creating ecosystems for plant and pharmaceutical production.\n\n## 3. Challenges in ISM\n- **Technical:** Microgravity, vacuum, and radiation impact material behavior (e.g., fluid cohesion, embrittlement).\n- **Logistics:** Resource constraints and supply chain management.\n- **Quality:** Stringent standardization and real-time defect detection.\n- **Energy:** High power requirements for AM and thermal management in a vacuum.\n\n## 4. Benefits of ISM\nISM enables significant cost reductions by lowering payload mass, allowing on-demand manufacturing, and facilitating material recycling (e.g., the Refabricator on the ISS).\n\n## 5. Current Developments and Case Studies\n- **Flawless Photonics:** High-quality optical fibers in microgravity.\n- **Varda:** Pharmaceutical manufacturing satellites.\n- **MISSE:** Testing material durability in LEO.\n- **Archinaut:** Robotic system for manufacturing and assembly in orbit.\n- **Redwire Regolith Print (RRP):** 3D printing with lunar and Martian regolith.\n\n**Table 5. Comparative factors of AM and DREPP.**\n| Feature | Additive Manufacturing (AM) | Direct Robotic Extrusion of Photopolymers (DREPP) |\n| :--- | :--- | :--- |\n| Construction Method | Layer-by-layer | 3D spatial extrusion |\n| Material | Solid-state or powdered | UV-curable resin |\n| Application | Small tools, simple parts | Complex structures/components |\n| Scalability | Limited to small-to-medium parts | Potential for large-scale |\n| Microgravity Suitability | Moderate | High |\n\n## 7. Conclusions\nISM represents a transformative leap in space operations, offering substantial economic and environmental benefits. Continued R&D is essential for unlocking the full potential of a self-sustaining space economy and deep-space exploration.",
+      "keyFindings": "In-space manufacturing (ISM) is critical for sustainable space exploration by enabling on-demand construction of habitats and infrastructure using in-situ resources. Advanced technologies like ARMADAS and DREPP are being developed to move beyond orbital prototyping into large-scale, autonomous assembly of modules for lunar and Martian settlement.",
+      "findings": "The document summarizes the evolution of in-space manufacturing from Skylab to the ISS, highlighting key technologies like Additive Manufacturing (AM) and autonomous robotic assembly. It identifies the critical role of ISRU in creating self-sustaining habitats and discusses the technical challenges posed by microgravity and vacuum conditions on material processing.",
+      "result": "ISS experiments (2014-2015) demonstrated that 3D-printed parts in microgravity were denser and stronger than Earth-made counterparts, though they exhibited weaker compressive strength due to uneven material distribution. NASA’s Archinaut project successfully demonstrated the feasibility of building large-scale structures in orbit that exceed launch shroud constraints.",
+      "graphId": "2025_AntonyJose_MDPI_A",
+      "status": "success"
+    },
+    {
+      "id": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "title": "Effect of Low-Temperature Fluctuations on Martian Steel Structures: Numerical and Analytical Studies",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2025_Bai.pdf",
+      "path": "Papers/2025_Bai.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.1061/JCRGEI.CRENG-875",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper provides a detailed numerical analysis of the structural resilience and material durability of steel-based Martian habitats. It specifically explores the use of in-situ resources (iron and nickel) for construction and the impact of the Martian environment on structural integrity.",
+      "markdownContent": "# Effect of Low-Temperature Fluctuations on Martian Steel Structures: Numerical and Analytical Studies\n\n**Authors:** Yongtao Bai, Jing Li, and Xuhong Zhou  \n**Journal:** Journal of Cold Regions Engineering (ASCE)  \n**Date:** Published online January 27, 2025  \n**DOI:** 10.1061/JCRGEI.CRENG-875\n\n## Abstract\nThis paper employs numerical simulation methodologies to scrutinize the displacement variations and stress distribution within a full-scale circular arch steel structure subjected to diverse thermal cycles on Mars. The research assesses the influence of severe cryogenic temperature fluctuations (ranging from +20°C to -110°C) on Martian steel infrastructure, providing an empirical foundation for architectural design and material selection for a Martian base.\n\n## Introduction\nMars is a primary candidate for human habitation due to its gravity, atmosphere, and relative proximity. Martian construction materials must resist radiation, temperature fluctuations, and chemical reactions. Steel is highlighted as a viable material due to its low cost, recyclability, and the presence of easily available iron and nickel in a reduced elemental form on the Martian surface, facilitating ISRU-based construction.\n\n## Overview of the Martian Environment\n- **Atmosphere:** Tenuous, 1% of Earth's density, resulting in poor heat retention.\n- **Diurnal Cycle:** ~24h 39min (one sol).\n- **Temperature Fluctuations:** Extreme variances, with simulation parameters set at +20°C maximum and -110°C minimum.\n- **Gravity:** 3.73 m/s² (0.38G).\n\n## Structure Form and Design\nThe study focuses on a single-story habitat module:\n- **Geometry:** Semicircular arch (radius 5m, longitudinal span 10m).\n- **Material:** Steel (50mm thickness).\n- **Interior Volume:** Fulfills NASA's habitat specifications (~93 m² for four astronauts).\n- **Shielding:** 3m high regolith layer (simulated as uniform 18.687 kPa external pressure).\n- **Internal Pressure:** 101.325 kPa (1 atm).\n\n### Table 1: Comparison of Seasonal Time (Days)\n| Seasons | Mars | Earth |\n| :--- | :--- | :--- |\n| Spring | 171 | 93 |\n| Summer | 199 | 94 |\n| Fall | 171 | 89 |\n| Winter | 146 | 89 |\n\n### Table 2: Material Parameters (Steel)\n| Parameter | Value |\n| :--- | :--- |\n| Density | 7,850 kg/m³ |\n| Conductivity | 54 W/m·°C |\n| Specific Heat | 425 J/kg·°C |\n| Expansion Coefficient | 1.36 × 10⁻⁵ /°C |\n| Yield Stress | 250 MPa |\n| Young’s Modulus | 2.06 × 10⁵ MPa |\n| Poisson’s Ratio | 0.3 |\n\n## Key Findings and Discussion\n1. **Structural Integrity:** The 50mm steel structure can withstand 1–10 Martian years of temperature cycles without cracking or structural failure.\n2. **Stress Distribution:** Under simple pressure (no thermal cycle), stress is localized on the arch. Under temperature fluctuations, stress shifts and concentrates at the connection between the arch and the floor member.\n3. **Displacement:** Thermal expansion and contraction lead to cyclical displacement fluctuations. The maximum displacement of the vault point recorded for 1,374 cycles was ~13.11 mm, compared to 2.70 mm under constant pressure.\n4. **Fatigue Damage:** While the structure remains safe, cyclical thermal stress leads to incremental fatigue damage, reducing material stiffness over time.\n\n## Conclusion\nThe study recommends thickening floor members and optimizing joint designs to mitigate stress concentrations. The findings provide a theoretical reference for future Martian infrastructure design, highlighting the feasibility of steel structures in extreme extraterrestrial environments.",
+      "keyFindings": "The research demonstrates that a 50mm thick steel arch habitat can maintain structural integrity on Mars for at least 10 Martian years under extreme thermal cycling (+20°C to -110°C). Numerical simulations reveal that temperature fluctuations cause significant stress shifts toward the arch-floor connections, requiring reinforced joint designs and thicker floor members to prevent fatigue damage.",
+      "findings": "The study concludes that Martian steel habitats are resilient to diurnal temperature fluctuations but experience significant cyclical displacement and stress redistribution. Specifically, while internal pressure is the dominant load, the thermal stress induced by the Martian sol leads to material fatigue that must be addressed through architectural optimization (e.g., thickened base plates).",
+      "result": "The maximum displacement of the habitat vault point increased from 2.70406 mm (static load only) to 13.1124 mm after 1,374 thermal cycles. The structure survived up to 6,870 cycles (10 Martian years) without reaching the yield stress (250 MPa) or exhibiting failure.",
+      "graphId": "2025_Bai_ASCE_A",
+      "status": "success"
+    },
+    {
+      "id": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "title": "Lunar Regolith Improvement by Inducing Interparticle Adhesion with Capillary Forces",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2025_Brzezi%C2%B4nski.pdf",
+      "path": "Papers/2025_Brzezi´nski.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.3390/ma18102390",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "This study explores the consolidation of lunar regolith simulant (EAC-1A) using capillary forces and mechanical grinding to create structural building materials (Class III habitat) for lunar base construction without external binders.",
+      "markdownContent": "# Lunar Regolith Improvement by Inducing Interparticle Adhesion with Capillary Forces\n\n**Authors:** Karol Brzeziński, Joanna Julia Sokołowska, Bartłomiej Przybyszewski  \n**Publisher:** MDPI (Materials Journal)  \n**Published:** 20 May 2025  \n**DOI:** https://doi.org/10.3390/ma18102390\n\n## Abstract\nThis paper concerns the assessment of the lunar regolith ability to consolidate in the presence of liquid water and develop and sustain cohesion after drying. The research was conducted using the lunar regolith simulant (EAC-1A). Specimens of consolidated material, CCR (Capillary-Consolidated Regolith), were produced and tested for flexural strength. Simple mechanical grinding improved interparticle adhesion with capillary forces, resulting in improved flexural strength (0.123 MPa).\n\n## 1. Introduction\nMankind is on the threshold of the second phase of exploration of the Moon through the Artemis Accords. Creating a stationary 'lunar habitat' is essential for long-term stays. Construction strategies increasingly opt for solutions that maximize the use of local resources (ISRU) to minimize Earth-transported mass. Potential binders discussed include sulfur, polymers, and hydraulic binders like Ordinary Portland Cement (OPC) or geopolymers.\n\n## 2. Materials and Methods\n### 2.1. Material\nEAC-1A lunar regolith simulant was used, which is a basanite material. Tests compared original LRS to ground LRS (milled in a disc mill).\n\n### Table 1: Statistical parameters describing the PSD of EAC-1A (original vs. ground).\n| Parameter | Original | Ground |\n| :--- | :--- | :--- |\n| Dmin [µm] | 0.67 | 0.58 |\n| D10 [µm] | 5.87 | 1.73 |\n| D50 (median) [µm] | 86.36 | 13.14 |\n| Dm (mean) [µm] | 123.53 | 21.70 |\n| Mode [µm] | 187.33 | 16.25 |\n| Dmax [µm] | 592.39 | 152.45 |\n| SPA [cm²/cm³] | 4542.7 | 11,929.0 |\n\n### 2.2. Specimen Preparation\n1. Mix 400g dry LRS with 100g distilled water (0.25 ratio).\n2. Pour into custom PTFE-coated steel molds (20x20x80 mm).\n3. Air-dry for 2h, then oven-dry at 127 °C for 22h.\n\n## 3. Results and Discussion\nGrinding LRS increased the specific surface area (SPA) by over 2.5 times. The un-ground consolidated regolith achieved a mean flexural strength of 0.029 MPa. The ground regolith CCR achieved 0.123 MPa, a significant improvement due to increased contact points and solid bridge formation.\n\n### Table 2: Comparison of flexural strength of regolith simulants.\n| Improvement Technique | Flexural Strength (MPa) | Reference |\n| :--- | :--- | :--- |\n| Capillary Consolidation—original PSD | 0.029 | This study |\n| Grinding + Capillary Consolidation | 0.123 | This study |\n| Sintering | 0.23–0.55 | [34,35] |\n| Portland cement binder | 6.8 | [12] |\n| Polylactide binder | 0.43–19.01 | [36] |\n| Alkali-activation | 7.16–8.80 | [14] |\n\n## 4. Conclusions\n- Capillary forces can induce interparticle adhesion to create solid materials from loose regolith.\n- Finer materials (ground LRS) result in four times higher strength.\n- The proposed workflow utilizes water as a reusable technological agent rather than a permanent component, facilitating ISRU-based construction and dust mitigation.",
+      "keyFindings": "The research demonstrates that lunar regolith simulant can be transformed into a solid building material (CCR) through capillary consolidation using water as a recyclable processing agent. Mechanical grinding of the regolith to increase its specific surface area significantly enhances interparticle adhesion, resulting in a four-fold increase in flexural strength from 0.029 MPa to 0.123 MPa.",
+      "findings": "Water acts as a technological agent to induce capillary forces that create permanent solid bridges between regolith particles upon drying. The process enables the creation of cohesive structural units from loose dust without the need for permanent chemical binders, provided that the regolith is processed to achieve a finer particle size distribution via milling.",
+      "result": "Capillary-Consolidated Regolith (CCR) produced from original EAC-1A simulant reached a flexural strength of 0.029 MPa, whereas CCR produced from regolith ground in a disc mill achieved a flexural strength of 0.123 MPa.",
+      "graphId": "2025_Brzezinski_MDPI_A",
+      "status": "success"
+    },
+    {
+      "id": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "title": "DESIGN OF COMPOSITE SAMPLING SYSTEM FOR SURFACE SOIL OF EXTRATERRESTRIAL BODIES",
+      "content": "",
+      "url": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/blob/main/Papers/2025_Sun.pdf",
+      "path": "Papers/2025_Sun.pdf",
+      "mimeType": "application/pdf",
+      "doi": "10.2298/TSCI2502267S",
+      "bibtex": "",
+      "isRelevant": true,
+      "relevanceReason": "The paper focuses on the design and simulation of a composite sampling system for extracting asteroid regolith, which is critical for In Situ Resource Utilization (ISRU) and providing raw materials for extraterrestrial construction.",
+      "markdownContent": "# DESIGN OF COMPOSITE SAMPLING SYSTEM FOR SURFACE SOIL OF EXTRATERRESTRIAL BODIES\n\n**Authors:** Qi-Chen SUN, Zeng ZHAO, Jun-Shan GONG, Zhong-Wang YIN, Xiao-Ming LAI, Hai-Bin YU, Zhong-Xian ZHAO, Chao WANG, and Hui LV\n\n**Journal:** THERMAL SCIENCE\n**Year:** 2025\n**Volume:** 29, No. 2B\n**Pages:** 1267-1272\n**DOI:** https://doi.org/10.2298/TSCI2502267S\n\n## Abstract\nSpace resource development has become a frontier topic in international space exploration. The utilization of asteroid resources necessitates extensive regolith mining operations. This paper presents the design and simulation analysis of an extraterrestrial surface regolith composite sampling system. The findings demonstrate that combining spiral drilling and transport with kinetic energy directional excitation is highly effective. It is capable of collecting no less than 500 g within 5 seconds at a rotation speed of 3000 rpm, while maintaining a reaction force below 5 N.\n\n## Introduction\nSpace resource development is essential for planetary exploration and lunar development. Asteroids are rich in precious metals and rare elements with high utilization value. Current sampling methods (impact splash, drilling after anchoring, gas excitation) have limitations regarding efficiency, energy consumption, or the need for consumables (gas). This research aims to provide technology for large-scale mining to support subsequent extraterrestrial construction and resource development.\n\n## Scheme Design of Sampling System\n### Design of Kinetic Energy Directional Sampling\nUses a motor-driven brush on a rotating shaft to impart velocity to particles, directing them into a sample channel. This is effective for microgravity conditions but limited to small particles.\n\n### Design of Auger Drilling Transport Sampling\nEmploys a spiral flange to cut and transport regolith from deeper levels. Features a small spiral angle and deep groove structure for retention.\n\n### Compound Sampling Principle\nCombines the two methods: the drilling tool performs subsurface excavation and crushing, while high-speed brushes direct the particles toward a collection container.\n\n## Simulation and Results\n### Collection Efficiency\nSimulations with a constant feed speed of 0.01 m/s and varied brush rotation speeds showed:\n\n| Feed speed [ms⁻¹] | Speed [rpm] | Time [s] | Equivalent mass of particles collected [g] |\n| :--- | :--- | :--- | :--- |\n| 0.01 | 1000 | 5 | 579.6 |\n| 0.01 | 2000 | 5 | 702.8 |\n| 0.01 | 3000 | 5 | 729.4 |\n\n### Reaction Force\nThe maximum reaction force excited by the brush is 6.6 N in the Z-axis, 0.78 N in the X-axis, and less than 1.3 N in the Y-axis. The peak value remains below 7 N, suitable for low-reaction requirements.\n\n## Conclusion\nThe composite sampling system integrates spiral drilling with kinetic energy acquisition, showing superior adaptability to varied asteroid surface conditions. It achieves efficient mining (500g in 5s) with minimal reaction forces, supporting large-scale asteroid resource extraction.",
+      "keyFindings": "The study validates a composite sampling method for asteroid regolith combining auger drilling and kinetic energy brush excitation. The system efficiently collects over 500g of material in 5 seconds while keeping reaction forces under 7N, which is vital for microgravity mining operations.",
+      "findings": "Development of a low-reaction force, high-efficiency sampling system for extraterrestrial bodies that combines mechanical drilling with kinetic particle transport to overcome the limitations of traditional 'touch-and-go' or gas-based sampling methods.",
+      "result": "The prototype collected 729.4g of regolith simulant in 5 seconds at 3000 rpm with a maximum Z-axis reaction force of 6.6N, satisfying requirements for microgravity operation and large-scale ISRU mining.",
+      "graphId": "2025_Sun_ThermalScience_A",
+      "status": "success"
+    }
+  ],
+  "mappings": [
+    {
+      "parameterId": "year",
+      "value": "2010",
+      "evidence": "Copyright ASCE 2010",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "James K. Mitchell, W. David Carrier III",
+      "evidence": "James K. Mitchell1, Sc.D., P.E., Dist. M. ASCE and W. David Carrier III2, Sc.D., P.E., Fellow, Life M. ASCE",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "American Society of Civil Engineers (ASCE)",
+      "evidence": "Copyright ASCE 2010",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Secondary Literature",
+      "evidence": "Current knowledge about the rocks and soils on the Moon and Mars is summarized",
+      "confidence": 0.9,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Conference Paper/Proceedings",
+      "evidence": "The Art of Foundation Engineering Practice Congress 2010",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "Geotechnical Engineering, Materials Science, ISRU, Structural Design",
+      "evidence": "geotechnical engineering, infrastructure, lunar soil mechanics, Mars, Moon, soil composition, soil properties, space exploration",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface, Underground",
+      "evidence": "excavation and underground space utilization, for design of surface vehicles and construction of transportation systems",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Moon, Mars",
+      "evidence": "physical and environmental characteristics and properties of the Earth, Moon, and Mars",
+      "confidence": 1,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "enable utilization of lunar soils and rock as construction materials",
+      "confidence": 0.9,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Excavation Based",
+      "evidence": "excavation and underground space utilization",
+      "confidence": 0.8,
+      "paperId": "c92be06dbb226c2420e2d39ee3332e9f8ff99fde",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2018",
+      "evidence": "Geobiology. 2018;16:540–555.",
+      "confidence": 1,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Alexander Brasier, David Wacey, Mike Rogerson, Paul Guagliardo, Martin Saunders, Siri Kellner, Ramon Mercedes-Martin, Tim Prior, Colin Taylor, Anna Matthews, John Reijmer",
+      "evidence": "Page 1 authors list.",
+      "confidence": 1,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "Wiley",
+      "evidence": "Published by John Wiley & Sons Ltd in Geobiology.",
+      "confidence": 1,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "The paper is labeled as an 'ORIGINAL ARTICLE' involving fieldwork and original laboratory analysis.",
+      "confidence": 1,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Research/Original Article",
+      "evidence": "Document identifies as an 'ORIGINAL ARTICLE'.",
+      "confidence": 1,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "Biotechnology & Bio-Inspired Materials, Geotechnical Engineering",
+      "evidence": "Investigates microbial mediation in construction and mineral formation (biomineralization) and soil/sediment interaction.",
+      "confidence": 0.9,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "Study focuses on tufa chimneys on the lake terrace (surface) of Mono Lake as a model for extraterrestrial targets.",
+      "confidence": 0.8,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Mars, Space",
+      "evidence": "Abstract mentions the structures as targets for the search for 'ancient or extraterrestrial life' and 'terrestrial geological and astrobiological investigation'.",
+      "confidence": 0.85,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "The research describes ISRU-based formation of structures through biomineralization, fitting the Class III (site-built) definition.",
+      "confidence": 0.7,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Biomineralization / Microbial Induced Carbonate Precipitation (MICP)",
+      "evidence": "The findings describe 'calcification taking place during or following calcium release on heterotrophic EOM breakdown' and 'microbially induced calcification'.",
+      "confidence": 0.95,
+      "paperId": "f6d9cac71e3ab69be6c59d7253fb49da49a9fcee",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2018",
+      "evidence": "Earth and Space 2018 804",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "G. H. Go, J. Lee, H. S. Shin, B. H. Rhu, H. W. Jin",
+      "evidence": "G. H. Go1; J. Lee2; H. S. Shin3; B. H. Rhu4; and H. W. Jin5",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "ASCE",
+      "evidence": "© ASCE",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "This study presents a new approach... a two dimensional finite element model was developed",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Conference Paper/Proceedings",
+      "evidence": "Earth and Space 2018",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "ISRU, Geotechnical Engineering",
+      "evidence": "especially extraterrestrial missions for in situ resource utilization (ISRU). This study presents a new approach in soil mechanics",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "simulates lunar surface conditions",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Moon, Mars",
+      "evidence": "lunar surface mission... Martian atmospheric pressure",
+      "confidence": 1,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "in situ resource utilization (ISRU)",
+      "confidence": 0.9,
+      "paperId": "8f4c80bb7aec8e95722a5e54e8f8f57ab6b0b6db",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2018",
+      "evidence": "Earth and Space 2018",
+      "confidence": 1,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Guangxi Wu, Ferin Neff, Xiong (Bill) Yu",
+      "evidence": "Guangxi Wu1; Ferin Neff2; and Xiong (Bill) Yu3",
+      "confidence": 1,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "ASCE",
+      "evidence": "© ASCE",
+      "confidence": 1,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "The paper describes original experimental fabrication and characterization of a new TEM structure.",
+      "confidence": 1,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Conference Paper/Proceedings",
+      "evidence": "Earth and Space 2018 (ASCE Conference)",
+      "confidence": 1,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "Materials Science, Additive & Automated Construction, Sustainability",
+      "evidence": "Thick film printing of Bi2Te3 nanocomposites for sustainable energy harvesting in space.",
+      "confidence": 0.9,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface, Orbital",
+      "evidence": "suitable for autonomous missions in the extreme environment of space and on planetary surfaces",
+      "confidence": 0.95,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Mars, Moon, Space",
+      "evidence": "solar brightness on Mars... On the moon, the temperature can reach... spacecraft or extraterrestrial vehicle body",
+      "confidence": 1,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Extrusion Based",
+      "evidence": "thick film printing technology; stencil printing; TE inks",
+      "confidence": 0.8,
+      "paperId": "f09ec63e939ce194cbc04a613c5b0522cb07b953",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2018",
+      "evidence": "Earth and Space 2018",
+      "confidence": 1,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Hongyu Zhou, Adam L. Brooks, Dominic Hanna, Babak Salarieh",
+      "evidence": "Hongyu Zhou1; Adam L. Brooks2; Dominic Hanna3; and Babak Salarieh4",
+      "confidence": 1,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "ASCE",
+      "evidence": "© ASCE",
+      "confidence": 1,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "In this research, a comprehensive and thorough study was carried out to investigate the effects of different lightweight fillers...",
+      "confidence": 1,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Conference Paper/Proceedings",
+      "evidence": "Earth and Space 2018",
+      "confidence": 0.9,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "Materials Science, Additive & Automated Construction, Structural Design",
+      "evidence": "Thermal and Mechanical Properties of Cementitious Composites for Additive Construction... suitable for structural load bearing",
+      "confidence": 1,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "construction of terrestrial and extraterrestrial habits... 3-D printed concrete wall section",
+      "confidence": 0.9,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Space, Moon, Mars",
+      "evidence": "potential to be used in the construction of terrestrial and extraterrestrial habits",
+      "confidence": 0.8,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "cement based material combined with lightweight fillers... potential to be used in the construction of... extraterrestrial habits",
+      "confidence": 0.8,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Extrusion Based",
+      "evidence": "LWCC is also suitable for extrusion based 3-D printing.",
+      "confidence": 1,
+      "paperId": "57378c838811a38a266e0cbc1ad262049716aad2",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2018",
+      "evidence": "Earth and Space 2018",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "I. Rosa, M. D. Lepech, D. J. Loftus",
+      "evidence": "I. Rosa1; M. D. Lepech2; and D. J. Loftus3",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "ASCE",
+      "evidence": "&copy; ASCE",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "The paper presents original experimental and computational modeling framework results.",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Conference Paper/Proceedings",
+      "evidence": "Earth and Space 2018; ASCE International Conference",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "ISRU, Materials Science, Biotechnology & Bio-Inspired Materials, Structural Design",
+      "evidence": "focuses on a novel class of composites... protein-bound soils; multi-scale framework to model the composite’s fracture properties; biopolymer binder",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "space surface operations; Moon, Mars, asteroids",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Moon, Mars, Asteroids",
+      "evidence": "Moon, asteroids, and other planetary bodies; Moon, Mars",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "in situ resource utilization; soil-like material... regolith",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Biopolymer Binder (Protein-bound)",
+      "evidence": "mixing soil, water, and a biopolymer binder (protein or other biopolymer)",
+      "confidence": 1,
+      "paperId": "20108d823b75afd0f55fc02c2239cfcf6646f73c",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2024",
+      "evidence": "Published Online: 5 November 2024",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Takuma Ishii, Arata Kioka, Jyh-Jaan Steven Huang, Yoshiki Tabuchi, Yasuhiro Yamada",
+      "evidence": "Author list on page 2",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "AIP Publishing",
+      "evidence": "Published under an exclusive license by AIP Publishing",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "Research Article involving original laboratory experiments",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Research/Original Article",
+      "evidence": "Labeled as RESEARCH ARTICLE on page 1",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "Geotechnical Engineering, Materials Science, ISRU",
+      "evidence": "Analyzes geomechanical properties, porosity, cohesion, and implications for resource utilization and construction.",
+      "confidence": 0.9,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "Focuses on lunar and Martian surface explorations and landing.",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Moon, Mars",
+      "evidence": "Title specifically mentions lunar and Martian regolith.",
+      "confidence": 1,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "Research supports infrastructure and construction using ISRU materials (regolith).",
+      "confidence": 0.8,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Other",
+      "evidence": "Geotechnical Analysis and Impact Characterization for foundation/drilling design.",
+      "confidence": 0.7,
+      "paperId": "6eb08cec400102255dce3f1f2b99b0a712535049",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2025",
+      "evidence": "Published: 5 March 2025",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Subin Antony Jose, Jordan Jackson, Jayden Foster, Terrence Silva, Ethan Markham, Pradeep L. Menezes",
+      "evidence": "Citation: Antony Jose, S.; Jackson, J.; Foster, J.; Silva, T.; Markham, E.; Menezes, P.L.",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "MDPI",
+      "evidence": "Journal of Manufacturing and Materials Processing, MDPI",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Secondary Literature",
+      "evidence": "Review",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Review Article",
+      "evidence": "Review",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "ISRU, Materials Science, Additive & Automated Construction, Structural Design, Systems Engineering and Design, Biotechnology & Bio-Inspired Materials, Life Support & Human Factors",
+      "evidence": "The paper covers AM, advanced materials, robotic systems, biomanufacturing, and habitat construction.",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Orbital, Surface",
+      "evidence": "typically in microgravity... on planetary surfaces",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Moon, Mars, Space",
+      "evidence": "International Space Station... lunar bases or Martian colonies",
+      "confidence": 1,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class II, Class III",
+      "evidence": "habitat modules (Class II)... construction relying on ISM and recycling technologies (Class III)",
+      "confidence": 0.9,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Extrusion Based, Powder Bed Fusion, Binder Jetting, Photopolymer Extrusion",
+      "evidence": "Table 1 mentions Filament-based, PBF, Binder Jetting. Section 5.4 discusses DREPP.",
+      "confidence": 0.9,
+      "paperId": "4f83dc1582411aefca61b0a6cbb0f74f525f0740",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2025",
+      "evidence": "© 2025 American Society of Civil Engineers.",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Yongtao Bai, Jing Li, Xuhong Zhou",
+      "evidence": "Yongtao Bai1; Jing Li2; and Xuhong Zhou3",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "ASCE",
+      "evidence": "Journal of Cold Regions Engineering, © ASCE",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "Numerical simulation methodologies to scrutinize the displacement variations and stress distribution",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Research/Original Article",
+      "evidence": "Numerical and Analytical Studies... Journal of Cold Regions Engineering",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "Materials Science, Structural Design, ISRU, Geotechnical Engineering",
+      "evidence": "material selection pertinent to the establishment of a Martian base; structural design; existence of easily available iron and nickel; regolith shielding",
+      "confidence": 0.95,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "subjected to diverse thermal cycles... Martian base... surface of Mars",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Mars",
+      "evidence": "Martian steel infrastructure; establishing a Martian base",
+      "confidence": 1,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "The fact that Mars has resources of iron available... means that the production of steel on Mars will be easier... in situ resources for construction.",
+      "confidence": 0.9,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "ISRU-based metallurgy",
+      "evidence": "existence of easily available iron and nickel in a reduced, elemental form on the surface of Mars changes the thinking on in situ resources for construction.",
+      "confidence": 0.8,
+      "paperId": "d46171896643d7b2c7f0251bfb8f4998207cc60b",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2025",
+      "evidence": "Materials 2025, 18, 2390",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Karol Brzeziński, Joanna Julia Sokołowska, Bartłomiej Przybyszewski",
+      "evidence": "Karol Brzeziński 1, Joanna Julia Sokołowska 2,* and Bartłomiej Przybyszewski 3",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "MDPI",
+      "evidence": "MDPI, Basel, Switzerland",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "The research was conducted using the lunar regolith simulant (EAC-1A) to produce specimens of consolidated material",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Research/Original Article",
+      "evidence": "Article: Lunar Regolith Improvement by Inducing Interparticle Adhesion with Capillary Forces",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "ISRU, Geotechnical Engineering, Materials Science",
+      "evidence": "Keywords: lunar soil; lunar geotechnics; lunar regolith simulant; LRS; extraterrestrial building materials",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "deliver them to the surface of the Moon—should provide people with conditions sufficient not only for short-term, but also long-term stay.",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Moon",
+      "evidence": "lunar regolith simulant (EAC-1A) reproducing the PSD of real lunar soil delivered from the Moon.",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "maximize the use of resources available locally on the Moon, with minimal use of raw materials supplied from Earth... locally obtained lunar materials (such as lunar regolith) are being investigated",
+      "confidence": 1,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "technologyClass3",
+      "value": "Capillary Consolidation",
+      "evidence": "transforming loose lunar dust into a solid material by capillary consolidation (CCR—Capillary-Consolidated Regolith).",
+      "confidence": 0.95,
+      "paperId": "e29b4c1e4b2612920e967589f49f91dc54ffbc99",
+      "verified": true
+    },
+    {
+      "parameterId": "year",
+      "value": "2025",
+      "evidence": "THERMAL SCIENCE: Year 2025, Vol. 29, No. 2B, pp. 1267-1272",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "authors",
+      "value": "Qi-Chen SUN, Zeng ZHAO, Jun-Shan GONG, Zhong-Wang YIN, Xiao-Ming LAI, Hai-Bin YU, Zhong-Xian ZHAO, Chao WANG, Hui LV",
+      "evidence": "Sun, Q.-C., et al.",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "publisher",
+      "value": "Vinča Institute of Nuclear Sciences",
+      "evidence": "2025 Published by the Vinča Institute of Nuclear Sciences, Belgrade, Serbia.",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "researchType",
+      "value": "Primary Literature",
+      "evidence": "Original scientific paper",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "publicationType",
+      "value": "Research/Original Article",
+      "evidence": "Original scientific paper",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "foci",
+      "value": "ISRU, Geotechnical Engineering, Systems Engineering and Design",
+      "evidence": "The utilization of asteroid resources necessitates extensive regolith mining operations... catering to the demands of extensive space activities, extraterrestrial construction, and resource development.",
+      "confidence": 0.9,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "scenario",
+      "value": "Surface",
+      "evidence": "DESIGN OF COMPOSITE SAMPLING SYSTEM FOR SURFACE SOIL OF EXTRATERRESTRIAL BODIES",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "location",
+      "value": "Asteroids",
+      "evidence": "The utilization of asteroid resources necessitates extensive regolith mining operations.",
+      "confidence": 1,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    },
+    {
+      "parameterId": "habitatClass",
+      "value": "Class III",
+      "evidence": "It aims to provide raw materials for subsequent large-scale space activities, extraterrestrial construction",
+      "confidence": 0.8,
+      "paperId": "6884a264d307fffd83f630e5a3fee44d18d7d71b",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "overview": "This systematic literature review synthesizes findings from EXACTLY 11 relevant research papers (out of 12 successfully analyzed documents). The overarching theme of the reviewed literature is the advancement of extraterrestrial infrastructure construction, specifically focusing on the utilization of in-situ resources (ISRU) to develop sustainable habitats on planetary bodies. The synthesis highlights a strong transition from theoretical frameworks to experimental mechanics, modeling, and advanced material fabrication tailored for the Moon, Mars, and asteroids.",
+    "keyFindings": "Major takeaways from the synthesized data indicate that maximizing the use of local extraterrestrial materials is essential for sustainable space exploration, bypassing the prohibitive costs of transporting Earth-based materials. Lunar and Martian regolith simulants demonstrate distinct geomechanical properties; while they possess high bearing capacities at shallow depths, they exhibit significantly lower resistance to impact and distinct poroelastic behaviors in vacuum environments. Innovative consolidation techniques have proven viable, including microbial-induced carbonate precipitation, capillary consolidation using recyclable water, and protein-bound biopolymer binders. Furthermore, structural design analyses demonstrate that extraterrestrial structures, such as Martian steel arches and lightweight cementitious composites, must be heavily engineered to withstand extreme low-temperature fluctuations and thermal cycling. Novel sampling and fabrication techniques, such as electrically parallel thermoelectric energy harvesters and kinetic energy brush excitation for microgravity mining, are actively being developed to support these infrastructure goals.",
+    "methodologyTrends": "The research methodology landscape is predominantly driven by Primary Literature, which accounts for 9 of the 11 papers. Publication types are evenly split between Conference Papers/Proceedings (5) and Research/Original Articles (5), supplemented by 1 Secondary Literature Review Article. There is a strong trend toward empirical laboratory testing using planetary simulants (e.g., EAC-1A, LHS-1, MGS-1) combined with multiscale computational modeling and finite element analysis. Experiments frequently simulate extreme environmental conditions, such as vacuum chambers and extreme thermal cycling, highlighting a rigorously experimental and data-driven approach to extraterrestrial geotechnical engineering.",
+    "technologyClass3": "Technologies mapped for Class III (ISRU-based) habitats display a diverse array of advanced material processing methods. Extrusion Based manufacturing is the most prominent technology, utilized in 3 studies for 3D printing lightweight cementitious composites and autonomous module assembly. Biological and chemical processing technologies are also highly represented, reflecting a growing sub-field in bio-inspired materials; these include Biomineralization / Microbial Induced Carbonate Precipitation (MICP), Biopolymer Binders (Protein-bound), and Capillary Consolidation. Additional methods identified for processing raw in-situ resources include Excavation Based techniques, ISRU-based metallurgy for refining Martian iron and nickel, and various specialized additive manufacturing techniques such as Powder Bed Fusion, Binder Jetting, and Photopolymer Extrusion.",
+    "chartAnalysis": "The generated charts provide a clear quantitative picture of current research priorities. The 'Year of Publication' bar chart shows a bimodal distribution with a significant cluster of 5 papers published in 2018 and another 5 papers published recently across 2024 and 2025, indicating renewed and accelerating interest in the field. The 'Research Type' pie chart confirms a strong emphasis on Primary Literature (9 papers). The 'Research Foci' treemap reveals that Materials Science (8) and ISRU (8) are the dominant pillars of study, closely followed by Geotechnical Engineering (7) and Structural Design (5). The 'Application Scenario' bar chart emphasizes Surface operations (11), which is universal across all studies, with marginal consideration for Orbital (2) and Underground (1) applications. The 'Application Location' radar chart demonstrates that Mars (9) and the Moon (8) are the primary targets for these technologies, while Asteroids (2) and general Space (4) applications remain secondary. Finally, the 'Habitat Class' pie chart underscores an overwhelming prioritization of Class III ISRU-based habitats (10), supported by the 'Technology for Class III Habitat' bar chart which illustrates a preference for Extrusion Based methods alongside novel biological and chemical material consolidation techniques.",
+    "chartData": {
+      "distributions": [
+        {
+          "parameterName": "Year of Publication",
+          "type": "bar",
+          "data": [
+            {
+              "name": "2010",
+              "value": 1
+            },
+            {
+              "name": "2018",
+              "value": 5
+            },
+            {
+              "name": "2024",
+              "value": 1
+            },
+            {
+              "name": "2025",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "parameterName": "Research Type",
+          "type": "pie",
+          "data": [
+            {
+              "name": "Primary Literature",
+              "value": 9
+            },
+            {
+              "name": "Secondary Literature",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "parameterName": "Publication Type",
+          "type": "bar",
+          "data": [
+            {
+              "name": "Conference Paper/Proceedings",
+              "value": 5
+            },
+            {
+              "name": "Research/Original Article",
+              "value": 5
+            },
+            {
+              "name": "Review Article",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "parameterName": "Research Foci",
+          "type": "treemap",
+          "data": [
+            {
+              "name": "Materials Science",
+              "value": 8
+            },
+            {
+              "name": "ISRU",
+              "value": 8
+            },
+            {
+              "name": "Geotechnical Engineering",
+              "value": 7
+            },
+            {
+              "name": "Structural Design",
+              "value": 5
+            },
+            {
+              "name": "Biotechnology & Bio-Inspired Materials",
+              "value": 3
+            },
+            {
+              "name": "Additive & Automated Construction",
+              "value": 3
+            },
+            {
+              "name": "Systems Engineering and Design",
+              "value": 2
+            },
+            {
+              "name": "Sustainability",
+              "value": 1
+            },
+            {
+              "name": "Life Support & Human Factors",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "parameterName": "Application Scenario",
+          "type": "bar",
+          "data": [
+            {
+              "name": "Surface",
+              "value": 11
+            },
+            {
+              "name": "Orbital",
+              "value": 2
+            },
+            {
+              "name": "Underground",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "parameterName": "Application Location",
+          "type": "radar",
+          "data": [
+            {
+              "name": "Mars",
+              "value": 9
+            },
+            {
+              "name": "Moon",
+              "value": 8
+            },
+            {
+              "name": "Space",
+              "value": 4
+            },
+            {
+              "name": "Asteroids",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "parameterName": "Habitat Class",
+          "type": "pie",
+          "data": [
+            {
+              "name": "Class III",
+              "value": 10
+            },
+            {
+              "name": "Class II",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "parameterName": "Technology for Class III Habitat",
+          "type": "bar",
+          "data": [
+            {
+              "name": "Extrusion Based",
+              "value": 3
+            },
+            {
+              "name": "Excavation Based",
+              "value": 1
+            },
+            {
+              "name": "Biomineralization / Microbial Induced Carbonate Precipitation (MICP)",
+              "value": 1
+            },
+            {
+              "name": "Biopolymer Binder (Protein-bound)",
+              "value": 1
+            },
+            {
+              "name": "Powder Bed Fusion",
+              "value": 1
+            },
+            {
+              "name": "Binder Jetting",
+              "value": 1
+            },
+            {
+              "name": "Photopolymer Extrusion",
+              "value": 1
+            },
+            {
+              "name": "ISRU-based metallurgy",
+              "value": 1
+            },
+            {
+              "name": "Capillary Consolidation",
+              "value": 1
+            },
+            {
+              "name": "Other",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "heatmaps": [],
+      "relevance": {
+        "relevant": 11,
+        "irrelevant": 1,
+        "failed": 0
+      }
+    },
+    "performance": {
+      "totalTimeMs": 383362,
+      "mappingTimeMs": 364711,
+      "synthesisTimeMs": 57224,
+      "paperCount": 12,
+      "tokenUsage": {
+        "promptTokens": 100504,
+        "candidatesTokens": 20861,
+        "totalTokens": 126643
+      }
+    },
+    "mappingModel": "gemini-3-flash-preview",
+    "metadata": {
+      "appVersion": "1.0.1",
+      "generationDate": "6/26/2026, 1:54:17 PM",
+      "githubRepoUrl": "https://github.com/zetazetalun/Space-Architecture-Literature_Failed-ones/tree/main/Papers",
+      "githubRef": "main"
+    }
+  },
+  "updatedAt": "2026-06-26T05:54:17.828Z"
+}
